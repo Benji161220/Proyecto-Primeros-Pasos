@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Proyecto-Primeros-Pasos</string>
+    <string name="explicacionAPP">Esta aplicacion asigna una tarea a un alumno</string>
 </resources>
